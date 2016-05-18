@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "Zaragoza Restaurant Bar", "TEL": "(933) 334-6238", "URL": "http:\/\/twitter.com/zaragozabar\/", "ADRESS1": "Esquina Con Abasolo, Ignacio Zaragoza 202, Centro, 86300 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10456.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2249930, 18.2633770 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "La Brasita", "TEL": "(933) 334-4151", "URL": "", "ADRESS1": "Ignacio Zaragoza 428, Centro, 86300 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 11213.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2237840, 18.2611710 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "Don sushi", "TEL": "(933) 334-3704", "URL": "", "ADRESS1": "Work Nicolas Bravo 307 Comalcalco Tabasco", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 11201.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2241910, 18.2605700] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "Pollo Feliz", "TEL": "(933) 337-0333", "URL": "http:\/\/www.facebook.com/pages/Pollo-Feliz-Comalcalco-Tabasco/162486530611325\/", "ADRESS1": "Reforma 530, Vicente Guerrero, 86350 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 11238.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2207030, 18.2601590 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "Restaurante Punta del Este", "TEL": "", "URL": "", "ADRESS1": "Sin nombre No 93 1512, Comalcalco, 86320 Comalcalco, Tab.", "ADDRESS2": null, "CITY": "Comalcalco", "ZIP": 10011.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2286250, 18.2586460 ] } }
+
+]
+}

@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "Hotel Kaoma", "TEL": "01 933 334 1964", "URL": "http:\/\/www.hotelkaoma.com/portada.php\/", "ADDRESS1": "Calle Morelos s/n Esquina Abasolo, Centro", "ADDRES2": null, "CITY": "Comalcalco,Tabasco", "ZIP": 86300 }, "geometry": { "type": "Point", "coordinates": [ -93.2246180,18.2635820 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "Hotel Copacabana", "TEL": "01 933 334 1933", "URL": "", "ADDRESS1": "Calle Aquiles Serdan 101, Centro", "ADDRES2": null, "CITY": "Comalcalco,Tabasco", "ZIP": 86300 }, "geometry": { "type": "Point", "coordinates": [-93.2233490,18.2618640] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "Hotel Colonial", "TEL": "01 933 334 5387", "URL": "", "ADDRESS1": "Calle Mariano Escobedo, Centro", "ADDRES2": null, "CITY": "Comalcalco,Tabasco", "ZIP": 86300 }, "geometry": { "type": "Point", "coordinates": [ -93.2245290,18.2618120 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "San Miguel", "TEL": "01 933 334 0036", "URL":"", "ADDRESS1": "Benito Juarez Garcia 535, Centro", "ADDRES2": null, "CITY": "Comalcalco,Tabasco", "ZIP": 86300 }, "geometry": { "type": "Point", "coordinates": [ -93.2223330,18.2606190 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "Hotel Santander", "TEL": "01 933 334 4458", "URL": "", "ADDRESS1": "Calle Mariano Escobedo No. 103, Centro", "ADDRES2": null, "CITY": "Comalcalco,Tabasco", "ZIP": 86300 }, "geometry": { "type": "Point", "coordinates": [ -93.2236000,18.2622130 ] } }
+]
+}
